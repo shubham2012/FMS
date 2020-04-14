@@ -16,5 +16,8 @@ a. Has one Start State and multiple end states.
 b. Easy way to define states and transitions between states. c. Validate State machine constructed.
 d. Error handling in case of invalid state transitions.
 
+## Example State Machine for testing:
+[](Screenshot%202020-04-15%20at%2012.02.51%20AM.png)
+
 Sample Happy testcase: FSM in Created state and Activate Event Occurs, changes the current state to Activated.
 Sample Error Test case: FSM in Activated State and Activate Event occurs, appropriate error handling to be supported.
