@@ -1,0 +1,12 @@
+exception/WrongStateException.class
+domain/CreateStateMachineRequest.class
+domain/AddTransitionRequest.class
+service/SubscriberService.class
+dao/SubscriberDao.class
+dao/StateMachineDao.class
+domain/StateMachine.class
+exception/NoStateMachineException.class
+service/StateMachineService.class
+domain/Subscriber.class
+domain/DoTransitionResponse.class
+domain/Result.class
